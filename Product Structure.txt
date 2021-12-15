@@ -1,0 +1,9 @@
+Portfolio	Sub Category	Category
+Gaia	Moros	Aergia
+Gaia	Apate	Aergia
+Gaia	Momus	Aergia
+Gaia	Eris	Ceto
+Aether	Hecate	Ceto
+Aether	Megaera	Pontus
+Aether	Keres	Pontus
+Gaia	Aergia	Aergia
